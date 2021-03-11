@@ -15,3 +15,5 @@
 1. Check all the running instanses of docker using "docker ps" command
 2. Get into specific service instanse by using "docker exec -it <dockerId> bash" command
 3. Run the mugration using "yarn db:migrate" and to undo "yarn db:migrate:undo" command
+
+Test
